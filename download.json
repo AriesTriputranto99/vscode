@@ -1,0 +1,120 @@
+)]}'
+{
+  "id": "e41b82bb79df824a90efd8b50689564e379dbb33",
+  "entries": [
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "e75efafb58a973b862c548e5c239172fbf48cd37",
+      "name": ".gitignore"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "2b51ed55ea9a08417e99d028735556bc2f7984a6",
+      "name": "README.md"
+    },
+    {
+      "mode": 16384,
+      "type": "tree",
+      "id": "387043a8d9a898257fe6d891f6975fb57ca42b8b",
+      "name": "auth"
+    },
+    {
+      "mode": 16384,
+      "type": "tree",
+      "id": "3d0b83b1f2060f3a122f83ee7509ed412e155870",
+      "name": "build"
+    },
+    {
+      "mode": 16384,
+      "type": "tree",
+      "id": "a56a5b8192a097c4e1a54206adfd78d7ca27acb6",
+      "name": "docs"
+    },
+    {
+      "mode": 16384,
+      "type": "tree",
+      "id": "196397782eb6740224effcf10cd164978a1d0c5f",
+      "name": "execute"
+    },
+    {
+      "mode": 16384,
+      "type": "tree",
+      "id": "ab53445e6d02debb7d4755254c592253b41af7af",
+      "name": "hashfs"
+    },
+    {
+      "mode": 33188,
+      "type": "blob",
+      "id": "18eb99722be425a100feed395f169a5ea00213db",
+      "name": "main.go"
+    },
+    {
+      "mode": 16384,
+      "type": "tree",
+      "id": "5c5e69ed4a342295f408f94f5d7ab2330cbe6d7e",
+      "name": "o11y"
+    },
+    {
+      "mode": 16384,
+      "type": "tree",
+      "id": "8a398b716b35ed4e81d69e8943ddc8d2effcb0e5",
+      "name": "reapi"
+    },
+    {
+      "mode": 16384,
+      "type": "tree",
+      "id": "8318df13cd940c36e235f52b10c1a4c3b65a24f0",
+      "name": "runtimex"
+    },
+    {
+      "mode": 16384,
+      "type": "tree",
+      "id": "5f39467941c4e070fe37b46b7c6976502069bb39",
+      "name": "scandeps"
+    },
+    {
+      "mode": 16384,
+      "type": "tree",
+      "id": "3ff1d293081f9369880963161d3e1963410d7a69",
+      "name": "scripts"
+    },
+    {
+      "mode": 16384,
+      "type": "tree",
+      "id": "989bfd35b3650c586bfaf0fd893049174e5b6968",
+      "name": "subcmd"
+    },
+    {
+      "mode": 16384,
+      "type": "tree",
+      "id": "c74294bf857992ad702bfd7fb0ea427b3b470db6",
+      "name": "sync"
+    },
+    {
+      "mode": 16384,
+      "type": "tree",
+      "id": "c045f43cc774194f3d0baedea807a46ef0d44496",
+      "name": "third_party"
+    },
+    {
+      "mode": 16384,
+      "type": "tree",
+      "id": "a02b3fcae2a6bc7e3f28b0a447173bac4f22f78d",
+      "name": "toolsupport"
+    },
+    {
+      "mode": 16384,
+      "type": "tree",
+      "id": "c95d2a1c4a11ec5b8aeeddb84e7f5944e6e10b8a",
+      "name": "ui"
+    },
+    {
+      "mode": 16384,
+      "type": "tree",
+      "id": "8ab3f588db2ca188d5a617fa49d5833145eabd3d",
+      "name": "webui"
+    }
+  ]
+}
